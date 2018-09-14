@@ -3,9 +3,11 @@
 Playtest the draft version of the game at:
 https://7nhale.itch.io/planet-unknown
 
+Code is located in Assets\Scripts.
+
 One of the first training projects in Unity engine.
 
-Get to the landing pad on the other side by using your boost engine and overcoming obstacles.
+Get to the landing pad on the other side by using your boost engine, overcoming obstacles and avoiding collision.
 (First level is a training level and looks a bit different from other levels of the game.)
 
 Controls:
